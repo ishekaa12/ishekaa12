@@ -54,8 +54,9 @@ Built from scratch in one day to solve a real problem I face as a student!
 
 ## 🤝 Let's Connect!
 
-- 💼 **LinkedIn:** [Your LinkedIn URL]
-- 📧 **Email:** your.email@example.com
+- 💼 **LinkedIn:** www.linkedin.com/in/isheka-singh-152264309
+
+- 📧 **Email:** ishekasingh26@gmail.com
 - 🌐 **Portfolio:** Coming soon!
 - 💬 **Ask me about:** Java, Spring Boot, starting your coding journey, or my favorite guitar chords!
 
