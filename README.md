@@ -1,75 +1,75 @@
-# Hi there, I'm Isheka! 👋
+# Hi, I'm Isheka! 👋  
+**Computer Science Freshman | Learning in Public | Aspiring Software Engineer**
 
-**Computer Science Freshman | Aspiring Software Engineer | Problem Solver**
+I'm a beginner in tech who's genuinely excited about becoming a better programmer every day.  
+Right now, I'm focused on learning the fundamentals — writing cleaner code, understanding algorithms, and building small projects to strengthen my skills.
 
-I'm passionate about building solutions that make a real impact. Currently diving deep into backend development and data structures while documenting my journey in tech.
+I don’t know everything yet, but I’m consistent, curious, and improving step by step.
 
-## 🚀 About Me
+---
 
-- 🎓 Freshman majoring in Computer Science
-- 💻 Learning: **Java, Spring Boot, DSA, Web Development**
-- 🎯 Goal: Landing a **Summer 2026 internship** in software engineering
-- 🌱 Currently building: Projects that solve real college problems
-- 📸 Creative side: Photography and guitar (ask me about my music!)
-- 💡 Interests: Backend development, APIs, and developer tools
+## 🚀 What I'm Learning Right Now
+- **HTML & CSS (basic)** — building simple, clean websites  
+- **Java (basic)** — syntax, OOP basics, simple programs  
+- **DSA (beginner)** — arrays, strings, searching, sorting  
 
-## 🛠️ Tech Stack
+I’m still early in my journey, but I love building things, even if they’re small.
 
+---
+
+## 🛠️ Tech Stack (Beginner Level)
 **Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+HTML • CSS • Java  
 
-**Frameworks & Tools:**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+**Concepts:**  
+Sorting Algorithms • Basic Data Structures • Problem Solving Foundations  
 
-**Currently Learning:**  
-Data Structures & Algorithms • REST APIs • Database Design • Problem Solving
-
-## 💼 Featured Project
-
-### [🎓 College Resource Hub](https://github.com/ishekaa12/college-resource-hubb)
-A web platform where students can upload, share, and download study materials.
-
-**Tech:** Java • Spring Boot • REST API • JPA/Hibernate • Maven  
-**Features:** File upload/download • Search & filtering • Resource management
-
-Built from scratch in one day to solve a real problem I face as a student!
-
-## 📊 GitHub Stats
-
-![Isheka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishekaa12&show_icons=true&theme=radical)
-
-## 🎯 2025 Goals
-
-- [ ] Master Data Structures & Algorithms (LeetCode: 100+ problems)
-- [ ] Build 3 full-stack projects
-- [ ] Contribute to open source
-- [ ] Secure Summer 2026 internship
-- [ ] Connect with 50+ developers in the community
-
-## 🤝 Let's Connect!
-
-- 💼 **LinkedIn:** www.linkedin.com/in/isheka-singh-152264309
-
-- 📧 **Email:** ishekasingh26@gmail.com
-- 🌐 **Portfolio:** Coming soon!
-- 💬 **Ask me about:** Java, Spring Boot, starting your coding journey, or my favorite guitar chords!
+**Tools:**  
+Git & GitHub • VS Code • IntelliJ (beginner)  
 
 ---
 
-### 🎸 Fun Facts
-- I play guitar (working on fingerstyle!)
-- Photography enthusiast (check my camera roll 📸)
-- Started coding seriously just a few weeks ago
-- Coffee-powered developer ☕
+## 💼 My First Real Project  
+### 🎓 College Resource Hub  
+A simple project I built while learning Java + Spring concepts through tutorials and documentation.
+
+**What I used:**  
+- Java (basic understanding)  
+- REST API tutorial concepts  
+- HTML/CSS for the UI  
+
+**Why I made it:**  
+To solve a real problem I experienced as a student — finding clean, organized study notes.
+
+**Honesty:**  
+Not fully advanced, but it helped me understand how real-world projects connect together.
 
 ---
 
-⭐️ **Currently open to:** Internship opportunities, collaborative projects, mentorship, and tech community connections!
+## 🎯 My Goals for 2025
+- Get comfortable with Java fundamentals  
+- Complete DSA basics (recursion, linked lists, stacks, queues)  
+- Build 2–3 small-but-realistic projects  
+- Understand how APIs and backend systems work  
+- Be confident enough to apply for Summer 2026 internships  
+- Be consistent on GitHub and track my progress  
 
-*"The best time to plant a tree was 20 years ago. The second best time is now."* 🌱
+---
+
+## 🤝 Connect With Me
+**LinkedIn:** www.linkedin.com/in/isheka-singh-152264309  
+**Email:** ishekasingh26@gmail.com  
+
+Portfolio coming soon (once I learn more!).
+
+---
+
+## 🎸 Fun Side of Me
+- Learning guitar (fingerstyle someday!)  
+- Love photography and aesthetic vibes  
+- Café hopper + music lover  
+- Started coding seriously *very recently*, but I’m all in now 🚀  
+
+---
+
+⭐ *If you're also learning, let's connect and grow together!*
