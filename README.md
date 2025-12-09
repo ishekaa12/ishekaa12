@@ -6,7 +6,39 @@ I'm a beginner in tech who's genuinely excited about becoming a better programme
 
 ---
 
-## 💻 Featured Project
+## 💻 Projects
+
+### 🔖 DSA Formula Cards Chrome Extension ⚡ *Currently Building*
+A Chrome extension that displays a random DSA formula/concept card every time you open a new tab — turning procrastination into learning!
+
+**Built for:** WeMakeDevs Hackathon (Ongoing)
+
+**Built with:**
+- HTML/CSS for card design
+- JavaScript for Chrome Extension API
+- JSON for formula database
+
+**Why I'm building this:** To help myself (and others) reinforce DSA concepts passively while browsing. Every new tab = a micro-learning moment!
+
+> 🔗 [View on GitHub](https://github.com/ishekaa12/CodeCards) | 🎯 Status: In Progress
+
+---
+
+### 🎵 Rhythm Routes
+A multi-page website exploring the technology behind music festivals — combining my love for music with web development!
+
+**What it covers:** Sound engineering, stage tech, lighting systems, and the digital infrastructure that powers live music experiences.
+
+**Built with:**
+- HTML & CSS
+- 4 interconnected webpages
+- Responsive design
+
+**What I learned:** Multi-page site structure, CSS styling, organizing content, and responsive layouts.
+
+> 🔗 [View on GitHub](https://github.com/ishekaa12/rhythm-routes-website) | 
+
+---
 
 ### 🎓 College Resource Hub
 A simple resource management system I built while learning Java and Spring concepts through tutorials and documentation.
@@ -20,7 +52,7 @@ A simple resource management system I built while learning Java and Spring conce
 
 **What I learned:** How to connect frontend and backend, basic API structure, and how real-world projects fit together.
 
-> 🔗 [View on GitHub]https://github.com/ishekaa12/college-resource-hubb |
+> 🔗 [View on GitHub](https://github.com/ishekaa12/college-resource-hubb) |
 
 ---
 
@@ -28,6 +60,7 @@ A simple resource management system I built while learning Java and Spring conce
 
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -53,29 +86,31 @@ Understanding syntax, OOP basics, and building simple programs. Slowly getting c
 Building simple, clean websites and learning responsive design basics.
 
 **Progress Tracker:**
-- ✅ Completed 30+ basic DSA problems
-- 🔄 Currently: Learning bubble sort & selection sort
+- ✅ Built 3 projects (1 ongoing hackathon project!)
+- ✅ Completed 10+ basic DSA problems
+- 🔄 Currently: Building Chrome extension for WeMakeDevs Hackathon
+- 🔄 Learning: Chrome Extension APIs & JavaScript DOM manipulation
 - 📖 Reading: "Head First Java" (Chapter 4)
 
 ---
 
 ## 🎯 My Goals for 2025
 
-- [ ] Complete 100 DSA problems by March 2025
+- [ ] Complete 50 DSA problems by March 2025
 - [ ] Master Java fundamentals (OOP, collections, exception handling)
 - [ ] Build 2–3 small-but-realistic projects
 - [ ] Understand how REST APIs and backend systems work
 - [ ] Start contributing to open-source (1 PR by April)
 - [ ] Be consistent on GitHub (commit regularly, document my journey)
-- [ ] Be confident enough to apply for Summer 2027 internships
+- [ ] Be confident enough to apply for Summer 2026 internships
 
 ---
 
 ## 📊 GitHub Stats
 
-![Isheka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![Isheka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishekaa12&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishekaa12&layout=compact&theme=radical&hide_border=true)
 
 ---
 
