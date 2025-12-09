@@ -1,75 +1,109 @@
-# Hi, I'm Isheka! 👋  
+# Hi, I'm Isheka! 👋
+
 **Computer Science Freshman | Learning in Public | Aspiring Software Engineer**
 
-I'm a beginner in tech who's genuinely excited about becoming a better programmer every day.  
-Right now, I'm focused on learning the fundamentals — writing cleaner code, understanding algorithms, and building small projects to strengthen my skills.
-
-I don’t know everything yet, but I’m consistent, curious, and improving step by step.
+I'm a beginner in tech who's genuinely excited about becoming a better programmer every day. I'm focused on learning fundamentals, writing cleaner code, and building small projects to strengthen my skills. I don't know everything yet, but I'm consistent, curious, and improving step by step.
 
 ---
 
-## 🚀 What I'm Learning Right Now
-- **HTML & CSS (basic)** — building simple, clean websites  
-- **Java (basic)** — syntax, OOP basics, simple programs  
-- **DSA (beginner)** — arrays, strings, searching, sorting  
+## 💻 Featured Project
 
-I’m still early in my journey, but I love building things, even if they’re small.
+### 🎓 College Resource Hub
+A simple resource management system I built while learning Java and Spring concepts through tutorials and documentation.
+
+**What it does:** Helps students find clean, organized study notes and resources in one place — solving a problem I experienced firsthand.
+
+**Built with:**
+- Java (basic understanding)
+- REST API concepts
+- HTML/CSS for the UI
+
+**What I learned:** How to connect frontend and backend, basic API structure, and how real-world projects fit together.
+
+> 🔗 [View on GitHub]https://github.com/ishekaa12/college-resource-hubb |
 
 ---
 
 ## 🛠️ Tech Stack (Beginner Level)
-**Languages:**  
-HTML • CSS • Java  
 
-**Concepts:**  
-Sorting Algorithms • Basic Data Structures • Problem Solving Foundations  
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Tools:**  
-Git & GitHub • VS Code • IntelliJ (beginner)  
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
+
+**Currently Learning:** Sorting Algorithms • Basic Data Structures • Problem Solving Foundations
 
 ---
 
-## 💼 My First Real Project  
-### 🎓 College Resource Hub  
-A simple project I built while learning Java + Spring concepts through tutorials and documentation.
+## 🚀 What I'm Learning Right Now
 
-**What I used:**  
-- Java (basic understanding)  
-- REST API tutorial concepts  
-- HTML/CSS for the UI  
+📚 **DSA (Beginner)**  
+Practicing arrays, strings, searching, and sorting algorithms. Working through problems step by step to build strong foundations.
 
-**Why I made it:**  
-To solve a real problem I experienced as a student — finding clean, organized study notes.
+☕ **Java (Basic)**  
+Understanding syntax, OOP basics, and building simple programs. Slowly getting comfortable with the fundamentals.
 
-**Honesty:**  
-Not fully advanced, but it helped me understand how real-world projects connect together.
+🎨 **HTML & CSS**  
+Building simple, clean websites and learning responsive design basics.
+
+**Progress Tracker:**
+- ✅ Completed 30+ basic DSA problems
+- 🔄 Currently: Learning bubble sort & selection sort
+- 📖 Reading: "Head First Java" (Chapter 4)
 
 ---
 
 ## 🎯 My Goals for 2025
-- Get comfortable with Java fundamentals  
-- Complete DSA basics (recursion, linked lists, stacks, queues)  
-- Build 2–3 small-but-realistic projects  
-- Understand how APIs and backend systems work  
-- Be confident enough to apply for Summer 2026 internships  
-- Be consistent on GitHub and track my progress  
+
+- [ ] Complete 100 DSA problems by March 2025
+- [ ] Master Java fundamentals (OOP, collections, exception handling)
+- [ ] Build 2–3 small-but-realistic projects
+- [ ] Understand how REST APIs and backend systems work
+- [ ] Start contributing to open-source (1 PR by April)
+- [ ] Be consistent on GitHub (commit regularly, document my journey)
+- [ ] Be confident enough to apply for Summer 2027 internships
+
+---
+
+## 📊 GitHub Stats
+
+![Isheka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🤝 Connect With Me
-**LinkedIn:** www.linkedin.com/in/isheka-singh-152264309  
-**Email:** ishekasingh26@gmail.com  
 
-Portfolio coming soon (once I learn more!).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isheka-singh-152264309)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ishekasingh26@gmail.com)
 
----
-
-## 🎸 Fun Side of Me
-- Learning guitar (fingerstyle someday!)  
-- Love photography and aesthetic vibes  
-- Café hopper + music lover  
-- Started coding seriously *very recently*, but I’m all in now 🚀  
+💼 Portfolio coming soon (once I learn more!)
 
 ---
 
-⭐ *If you're also learning, let's connect and grow together!*
+## ⚡ Quick Facts About Me
+
+- 🎸 Learning guitar (fingerstyle someday!)
+- 📸 Love photography and aesthetic vibes
+- ☕ Café hopper + music lover
+- 🚀 Started coding seriously very recently, but I'm all in now
+- 🎵 Coding playlist: Lo-fi beats + Indie vibes
+
+---
+
+## 💭 My Philosophy
+
+> "I'm not trying to be the best right now. I'm trying to be better than I was yesterday."
+
+If you're also learning, let's connect and grow together! 🌱
+
+---
+
+<sub>⭐ If you find my journey relatable or inspiring, feel free to star my repos!</sub>
