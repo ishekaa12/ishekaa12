@@ -1,144 +1,126 @@
-# Hi, I'm Isheka! 👋
+# Hey, I'm Isheka! 👋
 
-**Computer Science Freshman | Learning in Public | Aspiring Software Engineer**
+**CS Freshman · Learning in Public · Aspiring Software Engineer**
 
-I'm a beginner in tech who's genuinely excited about becoming a better programmer every day. I'm focused on learning fundamentals, writing cleaner code, and building small projects to strengthen my skills. I don't know everything yet, but I'm consistent, curious, and improving step by step.
+I'm a beginner who's genuinely excited about becoming a better programmer every day.  
+Not here to pretend I know everything — just consistent, curious, and building cool stuff one commit at a time. 🌱
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Databases**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Currently exploring:** DSA · REST APIs · Python simulations · Chrome Extensions
 
 ---
 
 ## 💻 Projects
 
-### 🔖 DSA Formula Cards Chrome Extension ⚡ *Currently Building*
-A Chrome extension that displays a random DSA formula/concept card every time you open a new tab — turning procrastination into learning!
+### ⚡ DSA Formula Cards — Chrome Extension
+> *Turn every new tab into a micro-learning moment*
 
-**Built for:** WeMakeDevs Hackathon (Ongoing)
+A Chrome extension that shows a random DSA formula/concept card on every new tab — built for the **WeMakeDevs Hackathon**.
 
-**Built with:**
-- HTML/CSS for card design
-- JavaScript for Chrome Extension API
-- JSON for formula database
+- **Stack:** HTML/CSS · JavaScript · Chrome Extension API · JSON
+- **Why:** To make DSA revision passive and painless — for me and anyone else cramming algorithms
 
-**Why I'm building this:** To help myself (and others) reinforce DSA concepts passively while browsing. Every new tab = a micro-learning moment!
-
-> 🔗 [View on GitHub](https://github.com/ishekaa12/CodeCards) | 🎯 Status: In Progress
+🔗 [View on GitHub](https://github.com/ishekaa12/CodeCards)
 
 ---
 
 ### 🎵 Rhythm Routes
-A multi-page website exploring the technology behind music festivals — combining my love for music with web development!
+> *Where music meets the web*
 
-**What it covers:** Sound engineering, stage tech, lighting systems, and the digital infrastructure that powers live music experiences.
+A multi-page website exploring the technology behind music festivals — sound engineering, stage tech, lighting, and the digital infrastructure of live music.
 
-**Built with:**
-- HTML & CSS
-- 4 interconnected webpages
-- Responsive design
+- **Stack:** HTML · CSS · 4 interconnected pages · Responsive design
+- **What I learned:** Multi-page structure, CSS layouts, organizing real content
 
-**What I learned:** Multi-page site structure, CSS styling, organizing content, and responsive layouts.
-
-> 🔗 [View on GitHub](https://github.com/ishekaa12/rhythm-routes-website) | 
+🔗 [View on GitHub](https://github.com/ishekaa12/rhythm-routes-website)
 
 ---
 
 ### 🎓 College Resource Hub
-A simple resource management system I built while learning Java and Spring concepts through tutorials and documentation.
+> *A problem I actually had, solved with code*
 
-**What it does:** Helps students find clean, organized study notes and resources in one place — solving a problem I experienced firsthand.
+A simple resource management system to help students find organized study notes in one place. Built while learning Java + REST API basics.
 
-**Built with:**
-- Java (basic understanding)
-- REST API concepts
-- HTML/CSS for the UI
+- **Stack:** Java · REST API concepts · HTML/CSS
+- **What I learned:** Connecting frontend & backend, basic API structure, how real projects fit together
 
-**What I learned:** How to connect frontend and backend, basic API structure, and how real-world projects fit together.
-
-> 🔗 [View on GitHub](https://github.com/ishekaa12/college-resource-hubb) |
+🔗 [View on GitHub](https://github.com/ishekaa12/college-resource-hubb)
 
 ---
 
-## 🛠️ Tech Stack (Beginner Level)
+## 🚀 What I'm Up To
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+```
+📚  DSA        ██████████░░  Grinding through arrays, strings & sorting
+☕  Java       ████████░░░░  OOP, collections, exception handling
+🐍  Python     ███████░░░░░  Dev projects + simulations
+🌐  Web Dev    ████████░░░░  Building small, clean things
+```
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
-
-**Currently Learning:** Sorting Algorithms • Basic Data Structures • Problem Solving Foundations
-
----
-
-## 🚀 What I'm Learning Right Now
-
-📚 **DSA (Beginner)**  
-Practicing arrays, strings, searching, and sorting algorithms. Working through problems step by step to build strong foundations.
-
-☕ **Java (Basic)**  
-Understanding syntax, OOP basics, and building simple programs. Slowly getting comfortable with the fundamentals.
-
-🎨 **HTML & CSS**  
-Building simple, clean websites and learning responsive design basics.
-
-**Progress Tracker:**
-- ✅ Built 3 projects (1 ongoing hackathon project!)
-- ✅ Completed 10+ basic DSA problems
-- 🔄 Currently: Building Chrome extension for WeMakeDevs Hackathon
-- 🔄 Learning: Chrome Extension APIs & JavaScript DOM manipulation
-- 📖 Reading: "Head First Java" (Chapter 4)
+**Recent wins:**
+- ✅ Completed 50+ DSA problems
+- ✅ Shipped Chrome Extension for WeMakeDevs Hackathon
+- ✅ Opened my first open-source PR — March 2026 🎉
+- 🔄 Currently exploring Python simulations & embeddings
+- 📖 Reading: *Grokking Algorithm*
 
 ---
 
-## 🎯 My Goals for 2025
+## 🎯 Goals for 2026
 
-- [ ] Complete 50 DSA problems by March 2025
+- [x] Complete 50 DSA problems
+- [x] Build 3 real projects
+- [x] Make my first open-source contribution
 - [ ] Master Java fundamentals (OOP, collections, exception handling)
-- [ ] Build 2–3 small-but-realistic projects
-- [ ] Understand how REST APIs and backend systems work
-- [ ] Start contributing to open-source (1 PR by April)
-- [ ] Be consistent on GitHub (commit regularly, document my journey)
-- [ ] Be confident enough to apply for Summer 2026 internships
+- [ ] Understand how REST APIs and backend systems work deeply
+- [ ] Be consistent on GitHub — document the journey
+- [ ] Be ready to apply for Summer 2026 internships
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Quick Facts
 
-![Isheka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishekaa12&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishekaa12&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isheka-singh-152264309)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ishekasingh26@gmail.com)
-
-💼 Portfolio coming soon (once I learn more!)
-
----
-
-## ⚡ Quick Facts About Me
-
-- 🎸 Learning guitar (fingerstyle someday!)
-- 📸 Love photography and aesthetic vibes
-- ☕ Café hopper + music lover
-- 🚀 Started coding seriously very recently, but I'm all in now
+- 🎸 Learning guitar (fingerstyle is the dream)
+- 📸 Into photography and aesthetic things generally
+- ☕ Café hopper · music lover · lo-fi coder
+- 🚀 Started coding seriously not too long ago — but I'm fully in now
 - 🎵 Coding playlist: Lo-fi beats + Indie vibes
 
 ---
 
-## 💭 My Philosophy
+## 💭 Philosophy
 
-> "I'm not trying to be the best right now. I'm trying to be better than I was yesterday."
+> *"I'm not trying to be the best right now. I'm trying to be better than I was yesterday."*
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isheka%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isheka-singh-152264309)
+[![Email](https://img.shields.io/badge/Gmail-ishekasingh26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishekasingh26@gmail.com)
 
 If you're also learning, let's connect and grow together! 🌱
 
 ---
 
-<sub>⭐ If you find my journey relatable or inspiring, feel free to star my repos!</sub>
+<sub>⭐ If my journey feels relatable, feel free to star a repo — it genuinely means a lot!</sub>
