@@ -1,47 +1,72 @@
-# Isheka Singh
+<!-- Animated typing header -->
+<div align="center">
 
-CS undergrad. Building small, real things and shipping them.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=500&lines=hey%2C+i'm+isheka+%F0%9F%91%8B;CS+undergrad.;building+real+things.;shipping+them+(yes%2C+really).;occasionally+debugging+at+2am.)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 ## Stack
 
-**Languages:** Java · Python · C · JavaScript · HTML/CSS 
+**Languages** — Java · Python · C · JavaScript · HTML/CSS
 
-**Tools:** Git/GitHub · VS Code · IntelliJ · Jupyter Notebook
+**Tools** — Git/GitHub · VS Code · IntelliJ · Jupyter Notebook
 
-**Data/ML:** Pandas, NumPy, Scikit-learn, XGBoost, Plotly, Seaborn
+**ML/Data** — Pandas · NumPy · Scikit-learn · XGBoost · Plotly · Seaborn
 
-**Backend:** Flask · REST APIs · SQLite · MongoDB
+**Backend** — Flask · REST APIs
 
-**Currently learning:** DSA (Java), backend systems, applied ML
+**Currently surviving:** DSA in Java · backend systems · applied ML
 
+---
 
 ## Projects
 
-**1] AI-Driven Predictive Maintenance System**
+**[AI-Driven Predictive Maintenance System](#)**
+Predicts equipment failure before it happens — because apparently machines need therapy too. Full pipeline from model training → Flask API → live dashboard, deployed on Render. Trained on NASA turbofan & AI4I sensor datasets.
+`Python` `Scikit-learn` `XGBoost` `Flask` `Plotly` `Pandas/NumPy`
 
-Predicts equipment failure from sensor data using ML, across multiple machine types, with a live dashboard. Full pipeline: model training → Flask API → frontend, deployed on Render. Trained on public sensor datasets (NASA turbofan / AI4I).
-`Python` `Pandas/NumPy` `Scikit-learn` `XGBoost` `Flask` `Plotly` · [repo](#)
+---
 
-**2] CodeCards** — DSA/syntax flashcards in the browser
+**[CodeCards](https://github.com/ishekaa12/CodeCards)** · [dashboard ↗](https://codecard-dashboard.vercel.app)
+Chrome extension that hijacks your new tab to show DSA flashcards. Resistance is futile. Also has a Vercel-hosted dashboard for practice mode + analytics. Manual JSON sync because Chrome's cross-origin storage rules said no.
+`JS` `Chrome Extension API (Manifest V3)` `Chart.js`
 
-Chrome extension that replaces new-tab with a flashcard, plus a Vercel-hosted dashboard for practice mode and analytics. Manual JSON sync between the two, by design — Chrome blocks cross-origin storage access.
-`JS` `Chrome Extension API (Manifest V3)` `Chart.js` · [repo](https://github.com/ishekaa12/CodeCards) · [dashboard](https://codecard-dashboard.vercel.app)
+---
 
-**3] College Resource Hub**
+**[College Resource Hub](https://github.com/ishekaa12/college-resource-hubb)**
+Resource management system for study notes — built to understand how a frontend actually talks to a backend. It works. I was surprised too.
+`Java` `REST API` `HTML/CSS`
 
-Resource management system for organizing and finding study notes, built while learning how a frontend talks to a backend.
-`Java` `REST API` `HTML/CSS` · [repo](https://github.com/ishekaa12/college-resource-hubb)
+---
 
-**4] Rhythm Routes**
+**[Rhythm Routes](https://github.com/ishekaa12/rhythm-routes-website)**
+Static multi-page site on the tech behind live music festivals — sound, staging, lighting. Built because music + code is a valid combination.
+`HTML` `CSS`
 
-Static multi-page site on the tech behind live music festivals — sound, staging, lighting.
-`HTML` `CSS` · [repo](https://github.com/ishekaa12/rhythm-routes-website)
+---
 
 ## Now
 
-- DSA in Java — arrays, strings, sorting, moving into trees/graphs
+- DSA in Java — arrays → strings → sorting → slowly befriending trees & graphs
 - Deepening backend/API fundamentals
+- Contributing to open source (one merged PR down, more incoming)
 
-## Contact
+---
 
-[LinkedIn](https://www.linkedin.com/in/isheka-singh-152264309) · [ishekasingh26@gmail.com](mailto:ishekasingh26@gmail.com)
+## Latest from the blog ✍️
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> 📖 I write about what I'm learning, building, and occasionally breaking → **[ishekaa12.github.io](https://ishekaa12.github.io)**
+
+---
+
+## Let's talk
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isheka%20Singh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isheka-singh-152264309)
+[![Email](https://img.shields.io/badge/Gmail-ishekasingh26@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ishekasingh26@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-ishekaa12.github.io-7EE787?style=flat-square&logo=jekyll&logoColor=white)](https://ishekaa12.github.io)
+
