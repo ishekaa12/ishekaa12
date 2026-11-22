@@ -7,6 +7,15 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/ishekaa12/ishekaa12/output/tulkun/tulkun.gif" width="640" alt="ishekaa12's git-tulkun" />
+  </a>
+</p>
+
+
+---
+
 ## Stack
 
 **Languages** — Java · Python · C · JavaScript · HTML/CSS
