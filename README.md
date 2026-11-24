@@ -1,10 +1,13 @@
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7EE787&center=true&vCenter=true&width=620&lines=hey%2C+i%27m+isheka+%F0%9F%91%8B;CSE+student+%40+UMIT%2C+Mumbai;Java+%C2%B7+Python+%C2%B7+C+%C2%B7+a+little+JS;backend+%2B+DSA+%2B+ML+pipelines;learning+in+public%2C+one+commit+at+a+time)](https://ishekaa12.github.io)
+```text
+    _      __         __
+   (_)____/ /_  ___  / /______ _
+  / / ___/ __ \/ _ \/ //_/ __ `/
+ / (__  ) / / /  __/ ,< / /_/ /
+/_/____/_/ /_/\___/_/|_|\__,_/
  
-<a href="https://github.com/PramudithaN/git-tulkun">
-  <img src="https://raw.githubusercontent.com/ishekaa12/ishekaa12/output/tulkun/tulkun.gif" width="640" alt="ishekaa12's git-tulkun" />
-</a>
-</div>
+> cs undergrad | building in public, one commit at a time_
+```
+ 
 ---
  
 ```console
@@ -50,13 +53,13 @@ florapulse  predictive-maintenance  alt-text-pr-bot  tutte-embedding  dungeon-es
  
 | Project | What it does | Built with |
 |---|---|---|
-| **🌿 FloraPulse** | IoT plant care that predicts *when* a plant will need water from its soil-moisture depletion rate, instead of just reacting to a threshold. | `ESP32` `FastAPI` `SQLite` `Streamlit` |
-| **🏭 Predictive Maintenance** | Predicts equipment failure from sensor data across machine types. Model training → Flask API → live dashboard on Render. Trained on NASA turbofan and AI4I datasets. | `Python` `XGBoost` `Scikit-learn` `Flask` `Plotly` |
-| **♿ Alt-Text PR Bot** | Reads the images in a repo's README, has Gemma 4 classify them and write alt text, shows a before/after diff, then opens a PR through the GitHub API. Hacktoberfest hackathon project. | `Gemma 4` `GitHub API` `DigitalOcean` |
-| **🧵 Tutte Embedding** | Flattens a 3D mesh into 2D with spring-based graph embedding (UV unwrapping). A 7-day self-directed project to understand the math, not just call a library. | `Python` `Graph theory` |
-| **🗡️ Dungeon Escape** | Dungeon game written in C, built around pointers and linked lists. | `C` |
-| **🎬 Movie Recommender** | Content-based recommender using TF-IDF, with SVD and KNN for finding similar movies. | `Python` `Scikit-learn` |
-| **📊 Analytics Dashboard** | Privacy-first analytics dashboard, built at the NMIMS ACM Hackathon. | `FastAPI` `SQLAlchemy` `Chart.js` |
+| **🌿 [FloraPulse](https://github.com/ishekaa12/Florapulse)** | IoT plant care that predicts *when* a plant will need water from its soil-moisture depletion rate, instead of just reacting to a threshold. | `ESP32` `FastAPI` `SQLite` `Streamlit` |
+| **🏭 [Predictive Maintenance](https://github.com/ishekaa12/predictive-maintenance-project)** | Predicts equipment failure from sensor data across machine types. Model training → Flask API → live dashboard on Render. Trained on NASA turbofan and AI4I datasets. | `Python` `XGBoost` `Scikit-learn` `Flask` `Plotly` |
+| **♿ [Alt-Text PR Bot](https://github.com/ishekaa12/alt-txt-pr-bot)** | Reads the images in a repo's README, has Gemma 4 classify them and write alt text, shows a before/after diff, then opens a PR through the GitHub API. Hacktoberfest hackathon project. | `Gemma 4` `GitHub API` `DigitalOcean` |
+| **🧵 [Tutte Embedding](https://github.com/ishekaa12/tutte-embedding)** | Flattens a 3D mesh into 2D with spring-based graph embedding (UV unwrapping). A 7-day self-directed project to understand the math, not just call a library. | `Python` `Graph theory` |
+| **🗡️ [Dungeon Escape](https://github.com/ishekaa12/dungeon_escape)** | Dungeon game written in C, built around pointers and linked lists. | `C` |
+| **🎬 [Movie Recommender](https://github.com/ishekaa12/Recommender-system)** | Content-based recommender using TF-IDF, with SVD and KNN for finding similar movies. | `Python` `Scikit-learn` |
+| **📊 [Analytics Dashboard](https://github.com/ishekaa12/analytics-dashboard)** | Privacy-first analytics dashboard, built at the NMIMS ACM Hackathon. | `FastAPI` `SQLAlchemy` `Chart.js` |
  
 <sub>Also: [CodeCards](https://github.com/ishekaa12/CodeCards) (Chrome extension + [dashboard](https://codecard-dashboard.vercel.app)) · [College Resource Hub](https://github.com/ishekaa12/college-resource-hubb) · [Rhythm Routes](https://github.com/ishekaa12/rhythm-routes-website)</sub>
  
@@ -65,7 +68,7 @@ florapulse  predictive-maintenance  alt-text-pr-bot  tutte-embedding  dungeon-es
 ## 🌱 Beyond the Code
  
 - 🧑‍🏫 Led the **Git & GitHub** and **CSS** sessions at *Code Ignite*, a beginner workshop series by ACM-W SNDT UMIT
-- 🤝 Class Representative for my CSE cohort
+- 🤝 Class Representative for my CSE Freshmen cohort
 - 🔓 Open source: first PR in March 2026; contributor in Girls Who Yap Fellowship 2.0 and Elite Summer Coder 2026
 ---
  
@@ -81,6 +84,7 @@ florapulse  predictive-maintenance  alt-text-pr-bot  tutte-embedding  dungeon-es
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishekaa12&layout=compact&hide_border=true" height="165" />
 </picture>
 </div>
+
 ---
  
 ## ✍️ Latest from the Blog
@@ -89,6 +93,7 @@ florapulse  predictive-maintenance  alt-text-pr-bot  tutte-embedding  dungeon-es
 <!-- BLOG-POST-LIST:END -->
  
 📖 More at **[ishekaa12.github.io](https://ishekaa12.github.io)**
+
  
 ---
  
